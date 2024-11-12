@@ -7,7 +7,7 @@ function App() {
         <nav className='flex justify-between w-[92%] mx-auto items-center py-2'>
         {/* Logo  */}
             <div>
-                <h1 className="font-bold text-3xl">Purify</h1>
+                <h1 className="font-bold text-3xl">Butterfly</h1>
             </div>
         {/* Menu */}
             <div>
